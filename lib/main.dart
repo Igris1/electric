@@ -1,5 +1,5 @@
 /// `IEEE PROJECT: ELECTRIC`
-///    test
+///    test #2
 
 import 'package:flutter/material.dart';
 import 'screens/announcements.dart';
