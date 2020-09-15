@@ -7,7 +7,7 @@
 #### Project Director   : Richard L. Jones III;
 #### Project Manager    : 
 
-#### Atlas  Lead: Kevin Guerrero, Deputy Lead : Karla Gonzalez, Coder: Christian Aguilar, Coder: Armando Perez, Coder: Eric
+#### Atlas  Lead: Kevin Guerrero, Deputy Lead : Karla Gonzalez, Coder: Christian Aguilar, Coder: Armando Perez, Coder: Eric Martinez
 
 #### (b)    Lead: Edgar Torres, Deputy Lead : Miguel Coy, Coder: Cecillia Oros, Coder: Krysta Warg, Coder: Miguel Amador
 
